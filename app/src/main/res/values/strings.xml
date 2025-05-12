@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Password App</string>
+    <string name="password_hint_check">Enter or paste a password</string>
+    <string name="password_hint_generate">Password</string>
+    <string name="generate_button">Generate</string>
+    <string name="copy_button">Copy</string>
+    <string name="check_button">Check Strength</string>
+    <string name="strength_title">Password Strength</string>
+    <string name="strength_result_default">Not checked 😑</string>
+    <string name="strength_result">%s</string>
+    <string name="character_types">Select Character Types</string>
+    <string name="lowercase">Lowercase (a-z)</string>
+    <string name="uppercase">Uppercase (A-Z)</string>
+    <string name="digits">Digits (0–9)</string>
+    <string name="symbols">Symbols (!@#…)</string>
+    <string name="toggle_password_visibility">Toggle password visibility</string>
+    <string name="show_password">Show password</string>
+    <string name="hide_password">Hide password</string>
+    <string name="tab_generate">Generate</string>
+    <string name="tab_check">Check Strength</string>
+    <string name="length_label">Password Length: %d</string>
+    <string name="length_label_default">Password Length: 12</string>
+    <string name="length_slider_description">Adjust password length</string>
+    <string name="tab_layout_description">Navigation tabs for password manager</string>
+    <string name="tab_generate_description">Generate password tab</string>
+    <string name="tab_check_description">Check password strength tab</string>
+    <string name="password_copied">Password copied to clipboard</string>
+</resources>
